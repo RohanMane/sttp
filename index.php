@@ -74,7 +74,7 @@ else{
     </h2>
     <strong>JUST FILL THE DETAILS BELOW AND GET STARTED</strong>
     <br><br>
-    <form action="/sttp/index.php" method="post">
+    <form action="/" method="post">
 
         <div>
             TAGLINE ON T-SHIRT : <input type="text" class="form-control" id="tagline" name="tagline">
